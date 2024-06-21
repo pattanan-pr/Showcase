@@ -28,7 +28,7 @@ function CarShow() {
 
      <mesh>
       <boxGeometry args={[1,1,1]}/>
-      <meshBasicMaterial color={'red'} />
+      <meshBasicMaterial color={'pink'} />
     </mesh>
     </>
   );
